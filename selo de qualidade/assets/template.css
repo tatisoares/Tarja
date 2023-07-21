@@ -1,0 +1,18 @@
+.tarja{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width:300px;
+    height:60px;
+    background-color:rgb(121, 121, 220);
+    transform:rotate(-45deg) translate(-90px,-30px);   
+    box-shadow:0 0 5px #555;
+    border-top: 1px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
+
+}
+a{
+    text-decoration:none;
+    color:#ffffff;
+    font-size:25px;
+}
